@@ -1,3 +1,17 @@
+apres donnees eco passer a onglet bilan ouverture ou plan de fiancement (reparter mannuellement les données pour moi c est bilan d ouverture)
+=> apres calcul cout emprunt => dans onglet annuités (0 emprunt précédent pour moi => case nouveaux emprunts en année installation, désigner emprunt tunnel montant taux duree pour calcul annuite interet etc)
+annuite case D (deux lignes) emprunt avec differe de remboursement (voir onglet emprunt differes)
+
+cécile earl ? pourquoi pas gaec ? voir ses emprunts, surface chambre froide ?
+
+analyser un ration haut de bilan et bas de roulement (taux d'endettement, Fond de roulement, TNG...)
+
+
+bâtiment agrivolatisme ? 
+
+https://entreprises.selectra.info/energie/profils/agriculteur/hangar#stockage-recolte
+https://www.lebatimentbois.com/produit/miellerie-en-bois-avec-espace-stockage-espace-transformation-et-bureau/
+
 27/08 reunion teams
 
 brut ou net pour immobilisation ? 
