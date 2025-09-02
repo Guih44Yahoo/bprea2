@@ -1,3 +1,74 @@
+02 - 09 - 2025
+
+cotis frais de remplacement mutuel
+inverser charge materiel
+frais bancaire TPE 0,25 € 300 euro par an
+
+centre gestion 3000 
+diminuer un peu impot et taxe
+rajouter imprévu ?
+
+2A présenation analyse marge brute + EBE et comparer aux autres fermes
+
+Efficience de l atelier = MB / produit x 100
+
+Efficience entreprise : EBE / produit x 100 (30% normalement)
+
+Efficacite du travail : EBE / UTH
+
+Efficacite du capital : EVE / capital d exploitation
+
+Part des annuités dans mon EBE( anuitté / EBE x 100)
+
+Coût de prod
+
+Charges opé + charge structure direct liéees à l'atelier + strrcuture indeirectes liées à l'atelier (ratio par rapport au CA)
+
+Prix de revient : 
+
+Cout deprod + rémunération du travail + rémunération du capital investi (à comparer avec si j'avais investi à 2% d'intéret ailleurs +
+ rémunration de la mise à dispoisiotn du foncier à comparer avec ce que j'aurais gagné si j avais loué mes terres)
+
+prix de revient pas intéressant à faire sur l'ensemble des légumes mais peut être fait sur quelques légumes à fort CA, vérifier que le prix de vente couvre bien sur prix de revient
+
+calculer prix de revient net pour comparer avec le prix de vente
+
+faire le calculer de prix de revient soit sur panier soit sur légume 
+
+---
+
+Aide creation et reprise entreprise (acre et arse) aide + cotis social les 12er mois de la MSA => pris en compte pour avoir 0 msa la premiere annee
+si acre prend en charge les cotis MSA premiere annee
+
+agriboost => moyen interessant car sur 5 ans
+
+conseil budget tréso => paiement mensuel (case à cocher)
+
+insallé 1 er janvier cotis toute l annee
+
+installer 1 er fevrier on paye que l annee d apres la msa, enfin juste un peu (mais pas de cotisation retraite, mais si on a le chomage alors on a cette partie la pour la retraite)
+
+prévoir assurance supplémentaire en charge => à voir ???????????
+
+reporter la msa sur les charges
+
+MSA : 
+
+RP (revenu pro) = BA (bénéfice agricole)
+
+micro BA RP = 13 % chiffre affaire
+
+Assiette triennale = moyenne des 3 années précédentes
+
+Au début => assiesste forfaitaire nouveau installalé = simulation => On attend de connaitre son revenu avant de payer le rattrapage
+
+en société : 
+
+chacun paye sa part 
+
+2 cotisations calculées sur un revenu de CA divisé par deux (et pas 1 cotisation sur 40 000)
+
+---
 
 btaiment pcae ? => oui
 
@@ -5,14 +76,15 @@ credit  d impot a rajouter tous les ans en apport perso => ok
 
 verifier aide region arrive direct et pret du cou ? => ok
 
-capital social à diviser avec les capitaux associé (selon statut ?)
+capital social à diviser avec les capitaux associé (selon statut ?) => ok
 
 geac verifier agricoltaiseme =W ok
 
-
-marge secu 15% de l EBE
+marge secu 15% de l EBE => ok
 
 scenaerio parite 8 => intégrer nouveau associe + seconde parcelle
+
+intégration nouvelle parcelle + passage à 3 associés => 7000 m2 en plus (fraises + pépi ?)
 
 -----
 31/08
