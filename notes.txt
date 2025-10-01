@@ -1,11 +1,16 @@
+transfo compte courant asso en capital social pour éviter de tomber à 0 en, fin de premiere année --- OK
+préciser 50% de credit d impot dans les tableaux ---> OK
+virer le limeur ? ajouter heure par uth ? === OK
+guide MSV rapport EBE / UTH ? => ok
+reflexion comment amener que ça ne colle pas à mes besoins acutels ===> OK
+-au niveau de tréso prélevemet different des besoins actuels ? ====> OK
+
+analyse technico associe charge fixe ecraser quand augementation du nb associé ? 
+diff tindiere avec salarié en pous donc volume en plus et charge écrasée
+
+
+
 beatrice ? france travail ? contact ? 
-
-
-
-
-
-
-
 
 
 
